@@ -43,17 +43,16 @@
 ## 🤖👾 My Projects...
 
 <p dir="auto">
-<a href="https://github.com/sushantsharmaa/PEPPERFRY-CLONE-BACKEND"><img src="https://www.adgully.com/img/800/201711/pepperfrycomhfy_2.jpg" alt="Pluralsight" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://pepperfry-clone-silk.vercel.app/">view Project</a><br>
-<a href="https://github.com/mehtab39/projectfashionnova/tree/Bals"><img src="https://i.ibb.co/t3fJfV5/Capture3.png" alt="Fabindia" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mehtab39.github.io/projectfashionnova/root/index.html">view Project</a>
+<a href="https://github.com/Sachi4496/faballey-clone.git"><img src="https://static.faballey.com/images/logo.png?v=11.6" alt="Faballey" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://faballey-clone.vercel.app/">view Project</a><br>
+<a href="https://github.com/Sachi4496/Udemy-Clone-Backend.git"><img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://aqueous-fortress-78543.herokuapp.com/">view Project</a>
 </p>
 <br/>
 
 ## 📧📫 Find me at...
 
 <p dir="auto">
-  <a href="https://www.linkedin.com/in/bala-murugan-r-473a88184/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
-  <a href="https://medium.com/@bals161616" rel="nofollow"><img src="https://camo.githubusercontent.com/031158fe406368e77048939080cdd7894ea1e98b230681dffa5c9b081e507194/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d656469756d2d3132313030453f7374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" alt="Medium" data-canonical-src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/ravi_bala13/" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/sachidanand-pradhan-885147170/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sachida_pradhan/" rel="nofollow"><img src="https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
  
 <br/>  <br/>
 
