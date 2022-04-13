@@ -6,11 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
+<!-- - 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)** -->
 
-- 🌱 I’m currently learning **Full Stack Web Development at Masai School**
+<!-- - 🌱 I’m currently learning **Full Stack Web Development at Masai School** -->
 
-- 👯 I’m looking to work as **Web Developer**
+<!-- - 👯 I’m looking to work as **Web Developer** -->
+
+- 🌱 I’m currently working **Software Engineer- Frontend Engineer at Freshworks**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Sachi4496?tab=repositories)**
 
