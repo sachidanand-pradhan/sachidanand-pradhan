@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently working **Software Engineer- Frontend Engineer at Freshworks**
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Sachi4496?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/sachidanand-pradhan?tab=repositories)**
 
 - 📫 How to reach me **sachidanand.kpradhan@gmail.com**
 
@@ -45,8 +45,8 @@
 ## 🤖👾 My Projects...
 
 <p dir="auto">
-<a href="https://github.com/Sachi4496/faballey-clone.git"><img src="https://static.faballey.com/images/logo.png?v=11.6" alt="Faballey" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://faballey-clone.vercel.app/">view Project</a><br>
-<a href="https://github.com/Sachi4496/Udemy-Clone-Backend.git"><img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://aqueous-fortress-78543.herokuapp.com/">view Project</a>
+<a href="https://github.com/sachidanand-pradhan/faballey-clone.git"><img src="https://static.faballey.com/images/logo.png?v=11.6" alt="Faballey" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://faballey-clone.vercel.app/">view Project</a><br>
+<a href="https://github.com/sachidanand-pradhan/Udemy-Clone-Backend.git"><img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://aqueous-fortress-78543.herokuapp.com/">view Project</a>
 </p>
 <br/>
 
@@ -66,17 +66,17 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Sachi4496/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachi4496&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/sachidanand-pradhan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sachidanand-pradhan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
   <br/>
   <p align="center">
-  <a href="https://github.com/Sachi4496/github-readme-stats"><img alt="Sachidanand Pradhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sachi4496&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sachidanand-pradhan/github-readme-stats"><img alt="Sachidanand Pradhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sachidanand-pradhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <p align="center">
-  <a href="https://github.com/Sachi4496/github-readme-stats"><img alt="Sachidanand Pradhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachi4496&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/sachidanand-pradhan/github-readme-stats"><img alt="Sachidanand Pradhan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachidanand-pradhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
     
   
@@ -87,7 +87,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Sachi4496/github-readme-activity-graph"><img alt="Sachidanand Pradhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sachi4496&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sachidanand-pradhan/github-readme-activity-graph"><img alt="Sachidanand Pradhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachidanand-pradhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -103,10 +103,10 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Sachi4496/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sachi4496">
+<a href="https://github.com/sachidanand-pradhan/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sachidanand-pradhan">
 </a>
-<a href="https://github.com/Sachi4496?tab=followers"><img src="https://img.shields.io/github/followers/Sachi4496?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sachidanand-pradhan?tab=followers"><img src="https://img.shields.io/github/followers/sachidanand-pradhan?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
