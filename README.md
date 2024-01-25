@@ -53,11 +53,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sachidanand-pradhan/github-readme-activity-graph"><img alt="Sachidanand Pradhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachidanand-pradhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 
 ## ❤ Views and Followers
 <a href="https://github.com/sachidanand-pradhan/github-profile-views-counter">
