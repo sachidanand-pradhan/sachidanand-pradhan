@@ -12,7 +12,7 @@
 
 <!-- - 👯 I’m looking to work as **Web Developer** -->
 
-- 🌱 I’m currently working **Software Engineer- Frontend Engineer at Freshworks**
+- 🌱 I’m currently working **Software Engineer- Frontend Engineer at Embibe | Ex- Freshworks**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/sachidanand-pradhan?tab=repositories)**
 
