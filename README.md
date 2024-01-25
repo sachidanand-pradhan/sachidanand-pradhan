@@ -75,14 +75,9 @@
 <br/>
 
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/sachidanand-pradhan-885147170/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Sachidanand_4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sachidanand_pradhan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
+## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sachidanand-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachidanand-pradhan-885147170/)
 
 ## ❤ Views and Followers
 <a href="https://github.com/sachidanand-pradhan/github-profile-views-counter">
